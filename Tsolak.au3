@@ -47,6 +47,7 @@ Func Inverse()
 EndFunc
 
 Func Percent()
+;jjjjj
 EndFunc
 
 Func InverseSign()
